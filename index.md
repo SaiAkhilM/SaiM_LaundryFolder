@@ -29,26 +29,20 @@ For your second milestone, explain what you've worked on since your previous mil
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 
 # First Milestone
-For your first milestone, describe what your project is and how you plan to build it. You can include:
-- An explanation about the different components of your project and how they will all integrate together
-- Technical progress you've made so far
-- Challenges you're facing and solving in your future milestones
-- What your plan is to complete your project
+For my first milestone, I set up the two main parts of my project: the improved BoxLegend (a large flat plastic board used to fold clothes) and the electronics. For the improved BoxLegend, I used parts from two BoxLegends to add an extra joint so that the machine can place a folded article of clothing aside instead of folding it and leaving the folded clothing on top of itself. I had some slight trouble with how to construct this but overall I was able to construct it by using a saw and scissors to cut the plastic and I used hot glue and a hot air gun to attach the two BoxLegends together. For the electronics, I wired my servo motors, Arduino Mega, power supplies, motor driver, and the button together. I then wrote the code and troubleshooted until I was able to get the click of a button to consecutively run the 4 servo motors 180 degrees and back. The code was pretty challenging at first since I wasn't used to the functions that controlled the servo motors and because I over-complicated the logic but in the end, I was able to simplify the code and get it to work. Next, I plan to attach the electronics to the improved BoxLegend and assemble all of that to a base so that the machine can successfully fold a shirt and place it aside.  
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fQ9N4MLIFkQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-# Schematics 
+<!-- # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
 
 # Code
-Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
+Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. -->
 
-```c++
+<!--```c++ 
 void setup() {
   // put your setup code here, to run once:
   Serial.begin(9600);
@@ -60,6 +54,7 @@ void loop() {
 
 }
 ```
+
 
 # Bill of Materials
 Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
