@@ -1,5 +1,5 @@
 # Laundry Folding Machine
-My Laundry Folding Machine helps users with the grueling and tedious task of folding laundry. The machine is able to fold t-shirts, long-sleeved shirts, pants, and shorts, the 4 most common articles of clothing, with utmost precision and speed. The user simply has to oplace the clothing on top of the machine and press the button representing the article of clothing they placed to have the machine fold the article of clothing and place it aside and stack it on a pile.
+My Laundry Folding Machine helps users with the grueling and tedious task of folding laundry. The machine is able to fold t-shirts, long-sleeved shirts, pants, and shorts, the 4 most common articles of clothing, with utmost precision and speed. The user simply has to place the clothing on top of the machine and press the button representing the article of clothing they placed to have the machine fold the article of clothing and place it aside and stack it on a pile.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
