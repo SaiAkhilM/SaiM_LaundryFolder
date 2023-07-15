@@ -1,5 +1,5 @@
 # Laundry Folding Machine
-<!-- Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails! -->
+My Laundry Folding Machine helps users with the grueling and tedious task of folding laundry. The machine is able to fold t-shirts, long-sleeved shirts, pants, and shorts, the 4 most common articles of clothing, with utmost precision and speed. The user simply has to oplace the clothing on top of the machine and press the button representing the article of clothing they placed to have the machine fold the article of clothing and place it aside and stack it on a pile.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -7,25 +7,21 @@
 
 <!-- **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here] if you need help. (https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html)** -->
 
-<!-- ![Headstone Image](logo.svg)
+<!-- ![Headstone Image](logo.svg) -->
 
 # Final Milestone
-For your final milestone, explain the outcome of your project. Key details to include are:
-- What you've accomplished since your previous milestone
-- What your biggest challenges and triumphs were at BSE
-- A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J1MK_oGmyCE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
+For my final milestone, I was able to get my machine to successfully fold all 4 articles of clothing: t-shirts, pants, shorts, and long-sleeved shirts. From my previous milestone, I was able to add extensions to my machine for it to be able to fold long clothing like long-sleeved clothing and pants. I also wrote the code for it to be able to do this and gave my servo motors more power for it to be able to move the heavier clothing and boards because of the added extensions. A challenge I faced during this milestone was getting the motors to turn the heavier boards and I was able to do this by adding delay statements in my code so that it gives my motors more time to attempt to turn the board over. This turned out to be successful but also could've been solved by using stronger motors. But when I added pants, the servo motors needed to be even stronger, so I gave it more voltage so that it's able to fold pants as well.
 
 # Third Milestone
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I_6vLKMshE4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 For my third milestone, I was able to integrate more buttons into my machine so that it could fold different types of clothing. More specifically, I was able to get it to fold shorts and t-shirts with the press of their corresponding button. 
 
-The main challenge I faced was the 3D-printed parts getting loose from the servo horn of the servo motor which prevented the machine from successfully folding the shirt in half and placing it aside. This worked during milestone 2 but when I was using the machine more, the 3d printed part got loose on the servo horn over time which prevented the board of the BoxLegend from moving. The servo horn had only one screw hole that I could use to connect to the part which caused the part to rotate about that screw because you need two points of contact for it to be secure. I noticed that the horn did have another hole but unfortunately, it didn't have threads. But luckily, I realized that it didn't need to have threads and I can still put a bolt through it to create a second point of contact. I got a smaller screw and created a small hole in the 3d part by heating the screw and pressing the head of the screw into the plastic. I then put filled the hole with super glue and put the head of the screw inside the hole to create two points of contact with the servo horn. In the end, I fixed the problem and was able to get my machine to consistently fold t-shirts and shorts without the parts getting loose. 
+The main challenge I faced was the 3D-printed parts getting loose from the servo horn of the servo motor which prevented the machine from successfully folding the shirt in half and placing it aside. This worked during milestone 2, but when I was using the machine more, the 3d printed part got loose on the servo horn over time, preventing the BoxLegend board from moving. The servo horn had only one screw hole that I could use to connect to the part which caused the part to rotate about that screw because you need two points of contact for it to be secure. I noticed that the horn did have another hole but unfortunately, it didn't have threads. But luckily, I realized that it didn't need to have threads and I can still put a bolt through it to create a second point of contact. I got a smaller screw and created a small hole in the 3d part by heating the screw and pressing the head of the screw into the plastic. I then put filled the hole with super glue and put the head of the screw inside the hole to create two points of contact with the servo horn. In the end, I fixed the problem and was able to get my machine to consistently fold t-shirts and shorts without the parts getting loose. 
 
 # Second Milestone
 
