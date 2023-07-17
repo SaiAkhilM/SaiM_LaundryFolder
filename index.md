@@ -89,6 +89,8 @@ One of the best parts about Github is that you can view how other people set up 
 # Starter Project: DIY RGB
 The DIY RGB is basically an RGB that changes colors as you adjust the three linear potentiometers which control the level of Red, Green, and Blue that is in the RGB. This starter project warmed me up for my intensive project. All I had to was solder the RGB and the three potentiometers in the correct orientation into the protoboard. I thought this was going to be easy but I soldered my RGB in the incorrect orientation so I had to spend hours removing the solder with a soldering iron and solder sucker. Eventually, I was able to resolder the RGB in the correct orientation and get the DIY RGB to work after connecting it to power.
 
+Amazon link: https://www.amazon.com/Soldering-Practice-Learning-Electronics-Training/dp/B0BKM3D927 
+
 ![DIY RGB](IMG_2967 (1).png)
 
 
