@@ -5,8 +5,6 @@ My Laundry Folding Machine helps users with the grueling and tedious task of fol
 |:--:|:--:|:--:|:--:|
 | Sai Akhil M. | Leigh High School | Mechanical/Bio/Computer Engineering | Incoming Senior
 
- **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here] if you need help. (https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html)**
-
  ![Headstone Image](IMG-3079 (1).png) 
 
 # Final Milestone
